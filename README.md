@@ -1,4 +1,4 @@
-# UTS Pemograman Berorientasi Objek
+# Tugas Pemograman Berorientasi Objek TM-10
 Membuat Laporan cetak hasil dari program  Java Swing untuk Tabel Matakuliah dengan atribut: KodeMK, SKS, NamaMK, SemesterAjar 
 
 ## Daftar Isi
